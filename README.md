@@ -1,4 +1,4 @@
-# Hey there! I'm pwnz 👋
+# Hey there! I'm ov3rfl0wz 👋
 
 Welcome to my GitHub space!  
 Here you'll find my projects related to cybersecurity, automation, and machine learning.  
@@ -44,7 +44,7 @@ Currently, I'm diving deep into offensive security to become a high-demand speci
 
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/#2423054)
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/pwnz)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ov3rfl0wz)
 ## 📌 Goals for 2025:
 
 - 🚀 Find a remote job or internship in cybersecurity  
